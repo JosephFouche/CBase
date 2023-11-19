@@ -1,0 +1,42 @@
+const
+MaxAlum=4;
+
+var
+	nota, ci : vector [MaxAlum] numerico
+	aux : cadena
+	i, suma : numerico
+inicio
+	cls()
+	desde i= 1 hasta MaxAlum {
+	imprimir("ingrese CI y Nota ", i, " ")
+	leer( ci[i])
+	leer( nota[i])
+	suma = suma + nota[i]
+	}		
+
+	bubbleSort( ci, nota)
+	imprimir("\nCI Nota")
+	desde i= 1 hasta MaxAlum {
+	imprimir( "\n",ci[i]," ")
+	imprimir( nota[i])
+	}
+	imprimir("\nPromedio= ", suma/MaxAlum)
+	fin
+
+	subrutina bubbleSort (ref A, Not : vector [*] numerico)
+	retorna numerico
+	var
+	I,J,N, cant: numerico
+	inicio
+	N= alen(A) - 1
+	desde I = 1 hasta N {
+	 desde J = 1 hasta N {
+	 si ( A[J] > A[J+1] ) {
+	 intercambiar(A[J], A[J+1])
+	intercambiar(Not[J], Not[J+1])
+	cant = cant + 1
+	 }
+	 }
+	}
+	retorna cant
+fin

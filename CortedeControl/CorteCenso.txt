@@ -1,0 +1,8 @@
+Aregua 		Eduardo Gimenes 	M  	25
+Aregua 		Alicia Martinez 	F  	18
+Aregua 		Fernando Gaona  	M  	30
+Aregua 		Sonia Alderete  	F  	45
+Capiata		Blanca Gamarra		F	57	
+Capiata		JuanJose Martinez 	M	54
+Zaragosa 	Felipe Candia		X	101	
+

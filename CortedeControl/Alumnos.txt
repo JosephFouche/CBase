@@ -1,0 +1,5 @@
+Nombre,Apellido,Puntaje - Proceso,Puntaje - Examen Final
+Jose,Colbes,80,73
+Julia,Perez,100,100
+Andrea,Acosta,90,75
+Juan,Benitez,75,45

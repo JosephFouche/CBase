@@ -1,0 +1,9 @@
+29122014 A 2 Examenes Finales 2
+29122014 B 4 Examenes Finales 2
+29122014 C 10 Taller 4
+29122014 D 20 Vectoriales 3
+30122014 A 45 Examenes Finales 2
+30122014 B 12 Vectoriales 3
+31122014 D 1 Taller 4
+31122014 C 17 Taller4
+01122014 A 50 Examenes Finales 2
